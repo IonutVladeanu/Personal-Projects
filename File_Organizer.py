@@ -1,3 +1,6 @@
+# Script that automatically oragnizes files into folders
+# based on the extension name
+# exemple(.exe, .txt, .pdf etc)
 import os
 import shutil
 
