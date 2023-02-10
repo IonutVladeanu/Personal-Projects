@@ -1,4 +1,3 @@
-#!/bin/python3
 # This is a script, remember to make the file executable.
 # in Unix this is done by the chmod comand:
 # chmod 744 "name of this file"
