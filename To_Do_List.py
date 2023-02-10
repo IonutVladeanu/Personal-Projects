@@ -1,3 +1,7 @@
+# GUI To do list using tkinter library
+# that let's the user to add, view and delete tasks
+# for the program to work you need to create a file in your ide called "data.txt"
+# where where tasks will be
 from tkinter import *
 from tkinter import ttk
 
